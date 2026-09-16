@@ -50,9 +50,7 @@ struct Stack {
 };
 
 struct LinkedQueue {
-    // TASK 2: Implement the linked queue class.
-    // You should be able to use one of the Node structs above.
-    // Recall that a queue requires two pointers, a `rear` and a `front`.
+    
 
     StrNode* rear = nullptr;
     StrNode* front = nullptr;
