@@ -13,12 +13,15 @@ Inserting before and after nodes
 Deleting nodes
 Clearing dynamically allocated memory
 
-Bounded Array
+Bounded Array, Dynamic array
 A fixed-capacity generic array supporting:
 Compile-time capacity configuration
 Bounds-checked access
 Element insertion and removal
 Array-style access using operator[]
+
+Stack and Queue
+A
 
 Concepts Demonstrated
 C++ templates
