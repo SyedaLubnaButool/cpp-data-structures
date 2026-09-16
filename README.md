@@ -3,6 +3,7 @@ C++ Data Structures and Generic Programming
 A collection of custom data structures developed in C++ to practise templates, dynamic memory management, pointers, encapsulation and testing.
 
 Included Data Structures:-
+
 Generic 
 Linked List
 
@@ -14,6 +15,7 @@ Deleting nodes
 Clearing dynamically allocated memory
 
 Bounded Array, Dynamic array
+
 A fixed-capacity generic array supporting:
 Compile-time capacity configuration
 Bounds-checked access
@@ -21,7 +23,9 @@ Element insertion and removal
 Array-style access using operator[]
 
 Stack and Queue
-A
+
+Having ability to push, pop from the stack and queue, dequeue from the queue
+Can peek the next element in both data structures as well.
 
 Concepts Demonstrated
 C++ templates
