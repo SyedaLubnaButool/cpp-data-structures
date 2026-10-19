@@ -27,7 +27,7 @@ Stack and Queue
 Having ability to push, pop from the stack and queue, dequeue from the queue
 Can peek the next element in both data structures as well.
 
-BST and Heap
+BST and Heap (seperate and combined in BSH file)
 
 Infinite Hash Table
 
